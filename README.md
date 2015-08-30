@@ -18,6 +18,7 @@ License
 
 * French     : David Revoy
 
+* Vietnamese : Binh Pham
 
 ## Artwork :
 
