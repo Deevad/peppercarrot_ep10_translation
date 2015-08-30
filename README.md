@@ -14,15 +14,18 @@ License
 
 ## Translators and correctors :
 
+* Dutch      : Willem Sonke
+
 * English    : Alex Gryson
 
 * French     : David Revoy
 
-* Vietnamese : Binh Pham
-
-* Dutch      : Willem Sonke
+* Italian    : Carlo Gandolfi
 
 * Mexicano   : R J Quiralta
+
+* Vietnamese : Binh Pham
+
 
 ## Artwork :
 
