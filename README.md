@@ -20,6 +20,8 @@ License
 
 * Vietnamese : Binh Pham
 
+* Dutch      : Willem Sonke
+
 ## Artwork :
 
 * David Revoy, www.peppercarrot.com
