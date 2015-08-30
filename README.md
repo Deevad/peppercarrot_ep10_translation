@@ -22,6 +22,8 @@ License
 
 * Dutch      : Willem Sonke
 
+* Mexicano   : R J Quiralta
+
 ## Artwork :
 
 * David Revoy, www.peppercarrot.com
