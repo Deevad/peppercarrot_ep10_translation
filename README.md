@@ -24,7 +24,11 @@ License
 
 * Mexicano   : R J Quiralta
 
+* Russian    : Denis "uncle Night" Prisukhin
+
 * Vietnamese : Binh Pham
+
+* Ukrainian  : Denis "uncle Night" Prisukhin
 
 
 ## Artwork :
