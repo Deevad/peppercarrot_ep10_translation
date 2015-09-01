@@ -14,6 +14,8 @@ License
 
 ## Translators and correctors :
 
+* Catalan    : Juan Jose Segura
+
 * Dutch      : Willem Sonke
 
 * English    : Alex Gryson
