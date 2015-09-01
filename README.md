@@ -22,6 +22,8 @@ License
 
 * French     : David Revoy
 
+* German     : Alexandra Jordan & Helmar Suschka
+
 * Italian    : Carlo Gandolfi
 
 * Japanese   : guruguru
