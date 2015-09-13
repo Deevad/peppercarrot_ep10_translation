@@ -39,6 +39,8 @@ License
 
 * Russian: Denis "uncle Night" Prisukhin
 
+* Swedish: Quiphius
+
 * Ukrainian: Denis "uncle Night" Prisukhin
 
 * Vietnamese: Binh Pham
