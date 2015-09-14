@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors:
 
+* Bengali: Hulo Biral the Tomcat
+
 * Catalan: Juan Jose Segura
 
 * Chinese: Ran Zhuang
