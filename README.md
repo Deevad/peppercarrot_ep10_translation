@@ -31,6 +31,8 @@ License
 
 * Hungarian: Halász Gábor "Hali"
 
+* Indonesian: Bonaventura Aditya Perdana
+
 * Italian: Carlo Gandolfi
 
 * Japanese: guruguru
