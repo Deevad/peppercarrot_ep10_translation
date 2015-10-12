@@ -43,6 +43,8 @@ License
 
 * Russian: Denis "uncle Night" Prisukhin
 
+* Slovak: talime
+
 * Spanish: TheFaico
 
 * Swedish: Quiphius
