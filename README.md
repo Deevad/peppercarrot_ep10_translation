@@ -23,6 +23,8 @@ License
 
 * English: Alex Gryson
 
+* Esperanto  : libre fan (librefan.eu.org)
+
 * Finnish: Kari Lehto
 
 * French: David Revoy
