@@ -17,7 +17,7 @@ License
 
 * Breton: Stefan Carpentier
 
-* Catalan: Juan Jose Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
