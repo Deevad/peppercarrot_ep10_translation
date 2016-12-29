@@ -29,6 +29,8 @@ License
 
 * Esperanto  : libre fan (librefan.eu.org)
 
+* Farsi: Aslan Zamanloo
+
 * Finnish: Kari Lehto
 
 * French: David Revoy
