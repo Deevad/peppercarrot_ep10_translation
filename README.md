@@ -47,7 +47,7 @@ License
 
 * Japanese: guruguru
 
-* Korean: Shikamaru Yamamoto
+* Korean: Jihoon Kim
 
 * Lojban: Gleki Arxokuna
 
