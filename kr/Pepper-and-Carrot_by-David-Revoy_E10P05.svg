@@ -43,9 +43,9 @@
      inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2"
-     inkscape:cx="1330.0639"
-     inkscape:cy="1278.4565"
+     inkscape:zoom="0.56568542"
+     inkscape:cx="1336.4803"
+     inkscape:cy="429.30341"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep10_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E10P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E10P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -73,7 +73,7 @@
      id="layer1"
      inkscape:label="txt">
     <flowRoot
-       transform="matrix(1.3493326,0,-0.3287501,1.8493601,633.55967,2911.7761)"
+       transform="matrix(1.4828772,0,-0.36128677,1.845211,573.69613,2912.9901)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.02334809;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4212-3-7-8-6"
        xml:space="preserve"><flowRegion
@@ -98,5 +98,5 @@
            y="-2.9480622"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:end;text-anchor:end" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
-         id="flowPara3272-6-3-1">08/2015 - 그림 및 이야기 : David Revoy - 한글 번역: Jihoon Kim</flowPara></flowRoot>  </g>
+         id="flowPara3272-6-3-1">2015/08 - 그림 및 이야기 : David Revoy - 한글 번역: Jihoon Kim</flowPara></flowRoot>  </g>
 </svg>
