@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 10: Summer Special
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -61,7 +61,7 @@ License
 
 * Polish: Sölve Svartskogen
 
-* Portuguese: Alexandre Esteves Almeida
+* Portuguese: Alexandre E. Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
 
